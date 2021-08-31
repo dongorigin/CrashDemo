@@ -1,4 +1,4 @@
-package cn.dong.crash.jni
+package cn.dong.nativelib
 
 object NativeLibJni {
 

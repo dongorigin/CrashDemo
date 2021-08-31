@@ -1,2 +1,3 @@
 rootProject.name = "CrashDemo"
 include ':app'
+include ':nativelib'

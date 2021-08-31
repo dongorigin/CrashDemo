@@ -3,7 +3,7 @@ package cn.dong.crash
 import android.os.Bundle
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import cn.dong.crash.jni.NativeLibJni
+import cn.dong.nativelib.NativeLibJni
 
 class MainActivity : AppCompatActivity() {
 
