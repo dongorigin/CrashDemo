@@ -13,6 +13,6 @@ class App : Application() {
         super.onCreate()
         application = this
 
-        System.loadLibrary("native-lab")
+        System.loadLibrary("native-lib")
     }
 }
